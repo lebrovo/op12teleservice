@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">[Ţĥé þĥöñé ŵîļļ ɓé îñ Éḿéŕĝéñçý Çåļļɓåçķ ḿöðé ƒöŕ %s ḿîñûţéš. Ðö ýöû ŵåñţ ţö éхîţ ñöŵ¿ one two three four five six seven eight nine]</item>
+        <item quantity="one">[Ţĥé þĥöñé ŵîļļ ɓé îñ Éḿéŕĝéñçý Çåļļɓåçķ ḿöðé ƒöŕ %s ḿîñûţé. Ðö ýöû ŵåñţ ţö éхîţ ñöŵ¿ one two three four five six seven eight nine]</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_scm">
+        <item quantity="other">[Ţĥé þĥöñé ŵîļļ ɓé îñ Éḿéŕĝéñçý ŠḾŠ Çåļļɓåçķ ḿöðé ƒöŕ %s ḿîñûţéš. Ðö ýöû ŵåñţ ţö éхîţ ñöŵ¿ one two three four five six seven eight nine]</item>
+        <item quantity="one">[Ţĥé þĥöñé ŵîļļ ɓé îñ Éḿéŕĝéñçý ŠḾŠ Çåļļɓåçķ ḿöðé ƒöŕ %s ḿîñûţé. Ðö ýöû ŵåñţ ţö éхîţ ñöŵ¿ one two three four five six seven eight nine]</item>
+    </plurals>
+</resources>

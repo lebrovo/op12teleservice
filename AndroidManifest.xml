@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="30" android:compileSdkVersionCodename="11" coreApp="true" package="com.mediatek.op12.phone" platformBuildVersionCode="30" platformBuildVersionName="11">
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.READ_PRECISE_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <permission android:label="SCBM" android:name="com.mediatek.permission.ENTER_SCBM" android:protectionLevel="signatureOrSystem"/>
+    <application android:extractNativeLibs="false" android:label="OperatorPlugin" android:usesNonSdkApi="true">
+        <service android:exported="true" android:name="com.mediatek.op12.phone.Op12SCBMService" android:permission="com.mediatek.permission.ENTER_SCBM" android:process="com.android.phone"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:label="@string/scbm_exit_dialog" android:launchMode="singleTop" android:name="com.mediatek.op12.phone.Op12SCBMExitDialog" android:process="com.android.phone" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="com.mediatek.op12.phone.action.ACTION_SHOW_SCM_EXIT_DIALOG"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

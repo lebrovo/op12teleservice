@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activate_advanced_calling">‏‮Activate‬‏ ‏‮Advanced‬‏ ‏‮Calling‬‏</string>
+    <string name="activate_advanced_calling_summary">‏‮Upgrade‬‏ ‏‮Service‬‏ ‏‮to‬‏ ‏‮HD‬‏ ‏‮Voice‬‏ ‏‮and‬‏ ‏‮Video‬‏ ‏‮calling‬‏</string>
+    <string name="activate_wifi_calling_title">‏‮Activate‬‏ ‏‮Wi-Fi‬‏ ‏‮Calling‬‏</string>
+    <string name="activate_wifi_calling_title_summary">‏‮Use‬‏ ‏‮Wi-Fi‬‏ ‏‮when‬‏ ‏‮the‬‏ ‏‮mobile‬‏ ‏‮network‬‏ ‏‮is‬‏ ‏‮not‬‏ ‏‮available‬‏</string>
+    <string name="activated_advanced_calling_summary">‏‮Service‬‏ ‏‮upgraded‬‏ ‏‮to‬‏ ‏‮HD‬‏ ‏‮Voice‬‏ ‏‮and‬‏ ‏‮Video‬‏ ‏‮calling‬‏</string>
+    <string name="advanced_calling_summary">‏‮Turn‬‏ ‏‮on/off‬‏ ‏‮HD‬‏ ‏‮Voice‬‏ ‏‮and‬‏ ‏‮Video‬‏ ‏‮Calling‬‏</string>
+    <string name="advanced_calling_title">‏‮Advanced‬‏ ‏‮Calling‬‏</string>
+    <string name="advanced_settings_menu">‏‮Turn‬‏ ‏‮on‬‏ ‏‮Video‬‏ ‏‮Calling‬‏</string>
+    <string name="alert_dialog_dismiss">‏‮Dismiss‬‏</string>
+    <string name="alert_dialog_in_scm_call">"‏‮The‬‏ ‏‮selected‬‏ ‏‮action‬‏ ‏‮isn't‬‏ ‏‮available‬‏ ‏‮while‬‏ ‏‮in‬‏ ‏‮an‬‏ ‏‮emergency‬‏ ‏‮call.‬‏"</string>
+    <string name="alert_dialog_no">‏‮No‬‏</string>
+    <string name="alert_dialog_yes">‏‮Yes‬‏</string>
+    <string name="app_label">‏‮Operator‬‏ ‏‮Plugin‬‏ ‏‮APK‬‏</string>
+    <string name="lvc_disable">"‏‮Your‬‏ ‏‮Video‬‏ ‏‮Calling‬‏ ‏‮Service‬‏ ‏‮on‬‏ ‏‮your‬‏ ‏‮account‬‏ ‏‮was‬‏ ‏‮turned‬‏ ‏‮off.‬‏
+
+‏‮Please‬‏ ‏‮contact‬‏ ‏‮customer‬‏ ‏‮care‬‏ ‏‮to‬‏ ‏‮have‬‏ ‏‮the‬‏ ‏‮service‬‏ ‏‮turned‬‏ ‏‮on.‬‏"</string>
+    <string name="mobile_data_settings">‏‮Turn‬‏ ‏‮on‬‏ ‏‮Mobile‬‏ ‏‮Data‬‏</string>
+    <string name="note">‏‮Note‬‏</string>
+    <string name="notification_channel_scbm">‏‮Emergency‬‏ ‏‮SMS‬‏ ‏‮callback‬‏ ‏‮mode‬‏</string>
+    <string name="phone_entered_scm_text">‏‮Entered‬‏ ‏‮Emergency‬‏ ‏‮SMS‬‏ ‏‮Callback‬‏ ‏‮Mode‬‏</string>
+    <string name="phone_in_scm_call_notification_text">‏‮Data‬‏ ‏‮connection‬‏ ‏‮disabled‬‏</string>
+    <string name="phone_in_scm_notification_complete_time">‏‮No‬‏ ‏‮data‬‏ ‏‮connection‬‏ ‏‮until‬‏ %s</string>
+    <string name="phone_in_scm_notification_title">‏‮Emergency‬‏ ‏‮SMS‬‏ ‏‮Callback‬‏ ‏‮Mode‬‏</string>
+    <string name="progress_dialog_exiting_scm">‏‮Exiting‬‏ ‏‮Emergency‬‏ ‏‮SMS‬‏ ‏‮Callback‬‏ ‏‮mode‬‏</string>
+    <string name="scbm_exit_dialog">‏‮ScmExitDialog‬‏</string>
+    <string name="scm_exit_dialog">‏‮ScmExitDialog‬‏</string>
+    <string name="turn_on_video">"‏‮Video‬‏ ‏‮Calling‬‏ ‏‮is‬‏ ‏‮turned‬‏ ‏‮off.‬‏
+‏‮Would‬‏ ‏‮you‬‏ ‏‮like‬‏ ‏‮to‬‏ ‏‮turn‬‏ ‏‮it‬‏ ‏‮back‬‏ ‏‮on?‬‏
+"</string>
+    <string name="video_calling_title">‏‮Turn‬‏ ‏‮on‬‏ ‏‮video‬‏ ‏‮calling‬‏</string>
+    <string name="video_message_data">‏‮Mobile‬‏ ‏‮Data‬‏ ‏‮is‬‏ ‏‮turned‬‏ ‏‮off.‬‏ ‏‮Would‬‏ ‏‮you‬‏ ‏‮like‬‏ ‏‮to‬‏ ‏‮turn‬‏ ‏‮it‬‏ ‏‮back‬‏ ‏‮on?‬‏</string>
+    <string name="volte_calling_title">‏‮Turn‬‏ ‏‮on‬‏ ‏‮Advanced‬‏ ‏‮Calling‬‏</string>
+    <string name="volte_disable">‏‮Advanced‬‏ ‏‮Calling‬‏ ‏‮is‬‏ ‏‮turned‬‏ ‏‮off.‬‏ ‏‮Would‬‏ ‏‮you‬‏ ‏‮like‬‏ ‏‮to‬‏ ‏‮turn‬‏ ‏‮it‬‏ ‏‮back‬‏ ‏‮on?‬‏</string>
+    <string name="wifi_calling_title">‏‮Wi-Fi‬‏ ‏‮Calling‬‏</string>
+</resources>

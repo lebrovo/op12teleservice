@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Created-By: 11.0.4 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: LwrVta7VkHatS/HTSf6F45Imd+kh7ySd6Q5z68gqvz8=
+
+Name: classes.dex
+SHA-256-Digest: 77L89QF8epTY4MMVTWwJ6j97CeTt40TQxm2h/zo7BkA=
+
+Name: res/drawable/Thumbs.db
+SHA-256-Digest: agaJFq/tHeb1SOIz146j4cJo3I5Ev7sY5eW+JFjFhZg=
+
+Name: res/drawable/ic_scbm.png
+SHA-256-Digest: mCngluZErMDsjUQmaIS8fD6OipurLzDdmGY0HE2tZpA=
+
+Name: resources.arsc
+SHA-256-Digest: Q9FoVvnqKNmVTU+cJ/vQvw+f8CiqJW9fmJR8FVXOucc=
+

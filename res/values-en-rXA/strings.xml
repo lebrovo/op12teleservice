@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activate_advanced_calling">[ÅçţîVåţé ÅðVåñçéð Çåļļîñĝ one two three]</string>
+    <string name="activate_advanced_calling_summary">[Ûþĝŕåðé ŠéŕVîçé ţö ĤÐ νöîçé åñð νîðéö çåļļîñĝ one two three four five]</string>
+    <string name="activate_wifi_calling_title">[ÅçţîVåţé Ŵî-Fî Çåļļîñĝ one two three]</string>
+    <string name="activate_wifi_calling_title_summary">[Ûšé Ŵî-Fî ŵĥéñ ţĥé ḿöɓîļé ñéţŵöŕķ îš ñöţ åVåîļåɓļé one two three four five six]</string>
+    <string name="activated_advanced_calling_summary">[ŠéŕVîçé ûþĝŕåðéð ţö ĤÐ νöîçé åñð νîðéö çåļļîñĝ one two three four five six]</string>
+    <string name="advanced_calling_summary">[Ţûŕñ öñ/öƒƒ ĤÐ νöîçé åñð νîðéö Çåļļîñĝ one two three four five]</string>
+    <string name="advanced_calling_title">[ÅðVåñçéð Çåļļîñĝ one two three]</string>
+    <string name="advanced_settings_menu">[Ţûŕñ öñ νîðéö Çåļļîñĝ one two three]</string>
+    <string name="alert_dialog_dismiss">[Ðîšḿîšš one two]</string>
+    <string name="alert_dialog_in_scm_call">"[Ţĥé šéļéçţéð åçţîöñ îšñ'ţ åVåîļåɓļé ŵĥîļé îñ åñ éḿéŕĝéñçý çåļļ. one two three four five six seven]"</string>
+    <string name="alert_dialog_no">[Ñö one]</string>
+    <string name="alert_dialog_yes">[Ýéš one]</string>
+    <string name="app_label">[Öþéŕåţöŕ Þļûĝîñ ÅÞĶ one two three]</string>
+    <string name="lvc_disable">"[Ýöûŕ νîðéö Çåļļîñĝ ŠéŕVîçé öñ ýöûŕ åççöûñţ ŵåš ţûŕñéð öƒƒ.
+
+Þļéåšé çöñţåçţ çûšţöḿéŕ çåŕé ţö ĥåVé ţĥé šéŕVîçé ţûŕñéð öñ. one two three four five six seven eight nine ten eleven twelve]"</string>
+    <string name="mobile_data_settings">[Ţûŕñ öñ Ḿöɓîļé Ðåţå one two three]</string>
+    <string name="note">[Ñöţé one]</string>
+    <string name="notification_channel_scbm">[Éḿéŕĝéñçý ŠḾŠ çåļļɓåçķ ḿöðé one two three four]</string>
+    <string name="phone_entered_scm_text">[Éñţéŕéð Éḿéŕĝéñçý ŠḾŠ Çåļļɓåçķ Ḿöðé one two three four]</string>
+    <string name="phone_in_scm_call_notification_text">[Ðåţå çöññéçţîöñ ðîšåɓļéð one two three]</string>
+    <string name="phone_in_scm_notification_complete_time">[Ñö ðåţå çöññéçţîöñ ûñţîļ %s one two three]</string>
+    <string name="phone_in_scm_notification_title">[Éḿéŕĝéñçý ŠḾŠ Çåļļɓåçķ Ḿöðé one two three four]</string>
+    <string name="progress_dialog_exiting_scm">[Éхîţîñĝ Éḿéŕĝéñçý ŠḾŠ Çåļļɓåçķ ḿöðé one two three four]</string>
+    <string name="scbm_exit_dialog">[ŠçḿÉхîţÐîåļöĝ one two]</string>
+    <string name="scm_exit_dialog">[ŠçḿÉхîţÐîåļöĝ one two]</string>
+    <string name="turn_on_video">"[νîðéö Çåļļîñĝ îš ţûŕñéð öƒƒ.
+Ŵöûļð ýöû ļîķé ţö ţûŕñ îţ ɓåçķ öñ¿
+ one two three four five six seven]"</string>
+    <string name="video_calling_title">[Ţûŕñ öñ Vîðéö çåļļîñĝ one two three]</string>
+    <string name="video_message_data">[Ḿöɓîļé Ðåţå îš ţûŕñéð öƒƒ. Ŵöûļð ýöû ļîķé ţö ţûŕñ îţ ɓåçķ öñ¿ one two three four five six seven]</string>
+    <string name="volte_calling_title">[Ţûŕñ öñ ÅðVåñçéð Çåļļîñĝ one two three]</string>
+    <string name="volte_disable">[ÅðVåñçéð Çåļļîñĝ îš ţûŕñéð öƒƒ. Ŵöûļð ýöû ļîķé ţö ţûŕñ îţ ɓåçķ öñ¿ one two three four five six seven eight]</string>
+    <string name="wifi_calling_title">[Ŵî-Fî Çåļļîñĝ one two]</string>
+</resources>

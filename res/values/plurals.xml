@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">The phone will be in Emergency Callback mode for %s minutes. Do you want to exit now?</item>
+        <item quantity="one">The phone will be in Emergency Callback mode for %s minute. Do you want to exit now?</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_scm">
+        <item quantity="other">The phone will be in Emergency SMS Callback mode for %s minutes. Do you want to exit now?</item>
+        <item quantity="one">The phone will be in Emergency SMS Callback mode for %s minute. Do you want to exit now?</item>
+    </plurals>
+</resources>
